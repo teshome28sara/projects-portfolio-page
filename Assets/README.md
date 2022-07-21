@@ -29,7 +29,11 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
  ### Website 
 
- [portfolio]( https://teshome28sara.github.io/challenge2-portfolio-page/)
+ [portfolio]( https://teshome28sara.github.io/projects-portfolio-page/)
+
+ #### screenshot 
+
+ ![Screenshot of portfolio page](/Assets/landing-page.png "portfolio page  screen")
 
  
 

@@ -1,0 +1,222 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+
+header{
+    width: 100%;
+    height: 20px;
+    background-color: red;
+   display:flex;
+} 
+
+  nav{
+    margin-left: auto;
+   
+    
+   
+}  
+   
+   
+
+    
+   
+   
+ 
+
+
+
+h1{
+    font-size: 18px;
+    color: white;
+    
+}
+
+.link{
+    color: #fff;
+    padding: 2px;
+    text-decoration-color: maroon;
+   font-weight: 9000;
+    
+}
+
+
+
+body{
+    background-image: url('wall.jpg');
+    background-position: center;
+    background-size: cover;
+   
+} 
+div{
+    display: flex;
+    justify-content: space-between;
+   
+   
+}
+
+
+
+img{
+    width: 400px;
+    height: 400px;
+  clip-path: circle(50% at 50% 50%);
+margin: 20px;
+}
+
+
+h2{
+   
+  
+ 
+  margin-top: auto; 
+ flex: 1;
+ 
+
+color: white;
+
+
+  
+}
+section{
+    
+    background-color: white;
+    padding-bottom: 40px;
+    display: flex;
+ margin: auto;
+ border: 5px ;
+ border-style: ridge; 
+ justify-content: center; 
+ align-items: center;
+}
+
+section .first{
+    display: block;
+}
+   
+   
+h3{
+    padding: 20px;
+    font-size: 25px;
+ border: 2px sold black;
+
+  
+}
+
+p{
+    padding-left: 10px;
+    padding-top: 3px;
+} 
+h4{
+    padding: 20px;
+    font-size: 25px;
+ border: 2px sold black;
+ 
+}
+
+
+.logo{
+    width: 100px;
+    height: 50px;
+   
+    
+   
+} 
+.container{
+width: 100%;
+    background: gray;
+    height: auto;
+    
+}
+
+
+.container2{
+   
+    width: 100%;
+        background: maroon;
+        height: auto;
+        
+      
+}
+
+
+
+.container3{
+   
+    width: 100%;
+        background: gray;
+        height: auto;
+       
+       
+     
+}
+
+
+
+
+
+
+
+h5{
+    padding: 20px;
+    font-size: 25px;
+ border: 2px sold black;
+
+   
+ 
+}
+
+a{
+    padding: 20px;
+    color: maroon;
+    flex-direction: column; 
+ margin-top: auto;
+ flex: 1;
+ justify-content: space-evenly;
+    
+} 
+
+@media screen and  (max-width: 600px) {
+    header{
+        display: block;
+    } 
+
+    
+}
+@media screen and(max-width:600px){
+    nav{
+        display: grid;
+    }
+}
+@media screen and(max-width:600px){
+    div{
+        display: block;
+    }
+}
+@media screen and (max-width:600px){
+    section{
+        display: block;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
